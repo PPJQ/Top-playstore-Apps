@@ -20,4 +20,6 @@ During this analysis we find the following:
 
 * The majority of the top applications are all of google and are applications that are preinstalled in the devices that have android.
 
+### [Link to the Project](https://github.com/PPJQ/Top-playstore-Apps/blob/main/Playstore%20apps.ipynb)
+
 ### [Link to the Dashboard](https://public.tableau.com/app/profile/jos.jim.nez6777/viz/Tableau-Dashboard_17229825302340/UsersInstallsBehabiour?publish=yes)
